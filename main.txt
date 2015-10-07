@@ -3,4 +3,4 @@
 QUALQUER COISA BY LNR
 
 // linha 2
->>>>>>> master
+
