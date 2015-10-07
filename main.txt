@@ -1,5 +1,6 @@
 //  linha 1
 
-// linha 2
+QUALQUER COISA BY LNR
 
-//linha 3
+// linha 2
+>>>>>>> master
